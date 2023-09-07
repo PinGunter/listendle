@@ -22,15 +22,15 @@
 }
 
 .attempt-fail {
-  background-color: red;
+  background-color: salmon;
 }
 
 .attempt-success {
-  background-color: green;
+  background-color: lightgreen;
 }
 
 .attempt-partial {
-  background-color: yellow;
+  background-color: khaki;
 }
 
 .attempt-skip {
@@ -80,8 +80,8 @@ body {
   cursor: not-allowed;
 }
 .guesser-submit {
-  background-color: green;
-  color: white;
+  background-color: lightgreen;
+  /* color: white; */
 }
 
 .guesser-submit:disabled {
@@ -90,24 +90,94 @@ body {
 }
 
 .guesser-submit:hover {
-  background-color: darkgreen;
+  background-color: #679767;
 }
 
 .guesser-submit:hover:disabled {
   background-color: #679767;
 }
 
+.guesser-skip:hover {
+  background-color: lightgray;
+}
+
 .dialog {
   padding: 50px;
   border: 0px solid;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
   width: 80%;
+  border-radius: 8px;
+  max-width: 800px;
+  position: absolute;
+  top: -40%;
 }
 
 .song-info {
   display: flex;
   align-items: center;
+}
+
+.dialog-content {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.dialog-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin: 25px 0px;
+}
+
+.dialog-button {
+  font-size: large;
+  padding: 10px;
+  background-color: #cfcfcf;
+  border: 0px;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 40px;
+}
+
+.dialog-button:hover {
+  background-color: #afafaf;
+}
+
+.dialog-inst {
+  padding: 50px;
+  border-radius: 8px;
+  max-width: 800px;
+}
+
+.player {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0px;
+}
+
+/* Loader */
+
+.loader {
+  z-index: -1;
+  width: 48px;
+  height: 48px;
+  background: #fff;
+  border-radius: 50%;
+  position: relative;
+  animation: roll 1s ease-in-out infinite alternate;
+}
+.loader:after {
+  content: "";
+  position: absolute;
+  inset: 5px;
+  border-radius: 50%;
+  border: 5px solid;
+  border-color: #d0d0d0 transparent;
+}
+@keyframes roll {
+  0% {
+    transform: translateX(-150%) rotate(0deg);
+  }
+  100% {
+    transform: translateX(150%) rotate(360deg);
+  }
 }

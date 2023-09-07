@@ -9,6 +9,7 @@ const maxAttempts = 6;
 
 const AttemptList = forwardRef((props, ref) => {
   const [end, setEnd] = useState(false);
+  const [win, setWin] = useState(false);
   const [attemptIndex, setAttemptIndex] = useState(0);
   const [attempts, setAttempts] = useState([]);
   const endGame = props.endGame;
@@ -19,6 +20,13 @@ const AttemptList = forwardRef((props, ref) => {
       setEnd(true);
     }
   }, [attemptIndex]);
+
+  useEffect(() => {
+    if (win) {
+      endGame({ success: true, attempts: attemptIndex });
+      setEnd(true);
+    }
+  }, [win])
 
   useImperativeHandle(ref, () => ({
     skip(data) {
@@ -34,8 +42,7 @@ const AttemptList = forwardRef((props, ref) => {
         { state: "success", text: `${data.title} - ${data.artist}` },
       ]);
       setAttemptIndex((att) => att + 1);
-      setEnd(true);
-      endGame({ success: true, attempts: attemptIndex });
+      setWin(true);
     },
     fail(data) {
       setAttempts((attempts) => [
@@ -57,9 +64,8 @@ const AttemptList = forwardRef((props, ref) => {
       {Array.from({ length: maxAttempts }).map((_a, index) => (
         <span
           key={index}
-          className={`attempt${
-            index >= attemptIndex ? "-disabled" : ""
-          } attempt-${attempts[index]?.state}`}
+          className={`attempt${index >= attemptIndex ? "-disabled" : ""
+            } attempt-${attempts[index]?.state}`}
         >
           {attempts[index]?.text}
         </span>
