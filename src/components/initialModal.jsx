@@ -1,12 +1,21 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const Instructions = ({ startGame }) => {
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
+  useEffect(() => {
+    if (localStorage.getItem("visited")) {
+      setOpen(false);
+      startGame();
+    } else {
+      setOpen(true);
+    }
+  }, []);
   return (
     <dialog
       open={open}
       onClick={() => {
         setOpen(false);
+        localStorage.setItem("visited", true);
         startGame();
       }}
       className="dialog-inst"

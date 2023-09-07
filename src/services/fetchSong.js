@@ -1,1 +1,3 @@
-export const fetchSong = async (songId) => {};
+export const fetchSong = (songId, songCallback) => {
+  window.DZ.api(`/track/${songId}`, songCallback);
+};

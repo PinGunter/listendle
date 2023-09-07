@@ -32,8 +32,9 @@ const Guesser = ({ correct, data, onSuccess, onFail, onPartial, onSkip }) => {
         autoFocus
         inputBackgroundColor="#fcfcfc"
         inputBorderColor="#ccc"
+        inputFontSize="16px"
         inputHeight="53px"
-        fuseConfigs={{ threshold: 0.3 }}
+        fuseConfigs={{ threshold: 0.35 }}
       />
       <div className="guesser-buttons">
         <button

@@ -19,12 +19,14 @@ function App() {
   return (
     <>
       <div className="header">
-        <h1>Listendle</h1>
+        <a href="/">
+          <h1>Listendle</h1>
+        </a>
       </div>
       <div className="app">
         <Instructions startGame={() => setStarted(true)} />
         <AttemptList ref={attemptsRef} endGame={modalRef.current?.open} />
-        <Player song={selected} />
+        <Player songData={selected} />
         <Guesser
           data={songs}
           correct={selected}

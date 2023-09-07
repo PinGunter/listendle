@@ -1,0 +1,1293 @@
+["Lil Uzi Vert - XO Tour Llif3",
+"Wham! - Last Christmas",
+"Wham! - Wake Me Up Before You Go-Go",
+"Wham! - Club Tropicana",
+"DJ Khaled - Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+"Dua Lipa - Levitating",
+"Dua Lipa - New Rules",
+"Lil Nas X - Old Town Road",
+"Lil Nas X - Panini",
+"Lil Nas X - Rodeo",
+"Lil Nas X - Industry Baby",
+"Marshmello - FRIENDS",
+"Marshmello - Alone",
+"Marshmello - Shockwave",
+"Toto - Africa",
+"Lil Jon - Get Low (feat. Ying Yang Twins)",
+"Cardi B - Bodak Yellow (feat. Kodak Black)",
+"Ed Sheeran - Shape of You",
+"The Kid LAROI. - Without You",
+"The Kid LAROI. - Still Chose You",
+"Eurythmics - Sweet Dreams (Are Made of This)",
+"Eurythmics - There Must Be An Angel",
+"The Chainsmokers - High",
+"The Chainsmokers feat. Halsey - Closer",
+"Katy Perry - Dark Horse (feat. Juicy J)",
+"Katy Perry - Roar",
+"Katy Perry - I Kissed A Girl",
+"Katy Perry - This Is How We Do",
+"Michael Jackson - Rock with You",
+"Michael Jackson - Billie Jean",
+"Michael Jackson - Bad",
+"Michael Jackson - Wanna Be Startin' Somethin'",
+"Michael Jackson - Beat It",
+"Michael Jackson - P.Y.T",
+"Rita Ora - Your Song",
+"Rita Ora - Let You Love Me",
+"Rita Ora - I Will Never Let You Down",
+"Rita Ora - Anywhere",
+"Wiz Khalifa - See You Again (feat. Charlie Puth)",
+"Wiz Khalifa - Black And Yellow",
+"Wiz Khalifa - Still Wiz",
+"Wiz Khalifa - Can't Stay Sober",
+"Adele - Someone Like You",
+"Adele - Easy On Me",
+"Adele - Chasing Pavements",
+"Madonna - Like a Prayer",
+"Madonna - Material Girl",
+"Madonna - Holiday",
+"Madonna - Vogue",
+"Carly Rae Jepsen - Call Me Maybe",
+"Adele - Rolling in the Deep",
+"Otis Redding - Try A Little Tenderness",
+"Otis Redding - I've Been Loving You Too Long",
+"Otis Redding - These Arms of Mine",
+"Lauv - I Like Me Better",
+"Daft Punk - One More Time",
+"Daft Punk - Around The World",
+"Daft Punk - Da Funk",
+"Daft Punk - Technologic",
+"Lynyrd Skynyrd - Sweet Home Alabama",
+"Sia - Cheap Thrills",
+"twentyonepilots - Stressed Out",
+"Mariah Carey - All I Want for Christmas Is You",
+"Future - Life Is Good (feat. Drake)",
+"Khalid - Location",
+"Roddy Ricch - The Box",
+"Jay-Z - Hard Knock Life (Ghetto Anthem)",
+"Jay-Z - Empire State Of Mind",
+"Jay-Z - Izzo (Hova)",
+"Jay-Z - 99 Problems",
+"Jay-Z - Dirt Off Your Shoulder",
+"Lewis Capaldi - Someone You Loved",
+"Lewis Capaldi - Before You Go",
+"Lewis Capaldi - Hold Me While You Wait",
+"Tracy Chapman - Fast Car",
+"XXXTENTACION - SAD!",
+"Oasis - Stand by Me",
+"Oasis - Don't Look Back In Anger",
+"Oasis - Champagne Supernova",
+"Prince - Kiss",
+"Prince - 1999",
+"Prince - When Doves Cry",
+"Prince - Purple Rain",
+"Al Green - How Can You Mend A Broken Heart?",
+"Al Green - Tired of Being Alone",
+"Al Green - Love and Happiness",
+"Al Green - Take Me To the River",
+"Al Green - I'm Still in Love With You",
+"David Bowie - Heroes",
+"David Bowie - Life on Mars",
+"David Bowie - Space Oddity",
+"David Bowie - Let's Dance",
+"Aretha Franklin - Respect",
+"Aretha Franklin - A Natural Woman",
+"Aretha Franklin - I Say A Little Prayer",
+"Migos - Bad and Boujee (Feat. Lil Uzi Vert)",
+"Migos - Versace",
+"Migos - Walk It Talk It",
+"Migos - MotorSport (feat. Nicki Minaj and Cardi B)",
+"Ed Sheeran & Justin Bieber - I Don't Care",
+"Ed Sheeran - Thinking Out Loud",
+"Ed Sheeran - Bad Habits",
+"Ed Sheeran - Castle on the Hill",
+"Bruno Mars - 24K Magic",
+"Duran Duran - Hungry Like The Wolf",
+"Duran Duran - Girls on Film",
+"Duran Duran - A View To a Kill",
+"Duran Duran - Rio",
+"Coldplay - Yellow",
+"Coldplay - Fix You",
+"Coldplay - Clocks",
+"Eagles - Hotel California",
+"Eagles - Lyin' Eyes",
+"Eagles - Heartache Tonight",
+"Eagles - New Kid In Town",
+"Calvin Harris - Slide (feat. Frank Ocean & Migos)",
+"Hozier - Take Me To Church",
+"Sean Paul - Temperature",
+"Sean Paul - Gimme the Light",
+"Sean Paul - Get Busy",
+"Sean Paul - I'm Still In Love With You",
+"Cardi B - WAP feat. Megan Thee Stallion",
+"Goo Goo Dolls - Iris",
+"XXXTENTACION - Jocelyn Flores",
+"Linkin Park - In the End",
+"Linkin Park - Crawling",
+"Linkin Park - Burn It Down",
+"ZAYN - PILLOWTALK",
+"ZAYN - Better",
+"ZAYN - Vibez",
+"ZAYN - Dusk till Dawn (feat. Sia)",
+"Jason Mraz - I'm Yours",
+"Doja Cat - Kiss Me More (feat. SZA)",
+"Doja Cat - Woman",
+"Doja Cat - Say So (feat. Nicki Minaj)",
+"Leona Lewis - Bleeding Love",
+"Leona Lewis - A Moment Like This",
+"Leona Lewis - Better In Time",
+"Leona Lewis - Run",
+"XXXTENTACION - Moonlight",
+"Mark Ronson - Uptown Funk (feat. Bruno Mars)",
+"Mark Ronson - Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+"Mark Ronson - Find U Again (feat. Camila Cabello)",
+"Megan Thee Stallion - Savage",
+"Megan Thee Stallion - Thot Shit",
+"Megan Thee Stallion - Girls In the Hood",
+"Megan Thee Stallion - Hot Girl Summer (feat. Nicki Minaj & Ty Dolla Sign)",
+"Jason Derulo - Want to Want Me",
+"Jason Derulo - Ridin' Solo",
+"Jason Derulo - Talk Dirty (feat. 2 Chainz)",
+"Jason Derulo - Wiggle (feat. Snoop Dogg)",
+"OneRepublic - Counting Stars",
+"OneRepublic - Apologize",
+"OneRepublic - Rescue Me",
+"OneRepublic - Lose Somebody (feat. Kygo)",
+"24kGoldn - Mood (feat. iann dior)",
+"Fetty Wap - Trap Queen",
+"Adele - Hello",
+"The Fray - How to Save a Life",
+"Train - Drops of Jupiter (Tell Me)",
+"Train - Drive By",
+"Train - Hey, Soul Sister",
+"The Script - Breakeven",
+"The Script - Superheroes",
+"The Script - For The First Time",
+"Calvin Harris - Summer",
+"Calvin Harris - This Is What You Came For (feat. Rihanna)",
+"Calvin Harris - Feels (feat. Pharrell Williams, Katy Perry and Big Sean)",
+"Calvin Harris - One kiss (feat. Dua Lipa)",
+"Marshmello - Silence (feat. Khalid)",
+"Alan Walker - Faded",
+"Lil Nas X - MONTERO (Call Me By Your Name)",
+"Bruno Mars - That's What I Like",
+"Bruno Mars - Treasure",
+"Franz Ferdinand - Take Me Out",
+"Arctic Monkeys - Do I Wanna Know?",
+"Arctic Monkeys - Why'd You Only Call Me When You're High?",
+"Arctic Monkeys - When the Sun Goes Down",
+"Daryl Hall and John Oates - Maneater",
+"Daryl Hall and John Oates - Out of Touch",
+"Daryl Hall and John Oates - Rich Girl",
+"Daryl Hall and John Oates - Can't Go for That (No Can Do)",
+"French Montana - Unforgettable (feat. Swae Lee)",
+"The Chainsmokers - Don't Let Me Down (feat. Daya)",
+"George Ezra - Shotgun",
+"Tones and I - Dance Monkey",
+"Miley Cyrus - Wrecking Ball",
+"Miley Cyrus - Malibu",
+"Miley Cyrus - Midnight Sky",
+"Miley Cyrus - We Can't Stop",
+"Ace Of Base - The Sign",
+"Ace Of Base - Beautiful Life",
+"Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie)",
+"Ed Sheeran - Perfect",
+"Kings of Leon - Sex on Fire",
+"Kings of Leon - Wait for Me",
+"Kings of Leon - Closer",
+"Kings of Leon - Pyro",
+"Kings of Leon - Revelry",
+"James Blunt - You're Beautiful",
+"Vance Joy - Riptide",
+"Vance Joy - Mess Is Mine",
+"Vance Joy - Georgia",
+"Missy Elliott - One Minute Man (feat. Ludacris)",
+"Missy Elliott - Lose Control (feat. Ciara & Fatman Scoop)",
+"Missy Elliott - Work It",
+"Missy Elliott - The Rain (Supa Dupa Fly)",
+"Joy Division - Love Will Tear Us Apart",
+"Joy Division - Disorder",
+"Joy Division - Transmission",
+"Joy Division - Atmosphere",
+"Notorious B.I.G. - Juicy",
+"Notorious B.I.G. - One More Chance (Remix)",
+"Notorious B.I.G. - Hypnotize",
+"Neil Young - Heart Of Gold",
+"Neil Young - Harvest Moon",
+"Neil Young - Down By The River",
+"Pet Shop Boys - West End Girls",
+"Pet Shop Boys - Go West",
+"Pet Shop Boys - It's A Sin",
+"Travis Scott - SICKO MODE",
+"Kate Bush - Wuthering Heights",
+"Kate Bush - This Woman's Work",
+"Kate Bush - Babooshka",
+"Kate Bush - Cloudbusting",
+"Seal - Crazy",
+"Seal - Kiss From A Rose",
+"Foo Fighters - Everlong",
+"Foo Fighters - My Hero",
+"Foo Fighters - The Pretender",
+"Foo Fighters - Best of You",
+"Red Hot Chili Peppers - Zephyr Song",
+"Red Hot Chili Peppers - By The Way",
+"Red Hot Chili Peppers - Under The Bridge",
+"Red Hot Chili Peppers - Don't Stop",
+"Alanis Morissette - Hand In My Pocket",
+"Alanis Morissette - Ironic",
+"Alanis Morissette - Thank U",
+"Alanis Morissette - Head over Feet",
+"Phil Collins - Another Day In Paradise",
+"Phil Collins - In The Air Tonight",
+"Phil Collins - You Can't Hurry Love",
+"Phil Collins - Easy Lover",
+"Phil Collins - One More Night",
+"Joni Mitchell - River",
+"Joni Mitchell - A Case of You",
+"Joni Mitchell - Big Yellow Taxi",
+"The Doors - Light My Fire",
+"The Doors - End Of The Night",
+"The Doors - Riders of the Storm",
+"The Doors - Roadhouse Blues",
+"Pink Floyd - Another Brick in the Wall (Part II)",
+"Pink Floyd - Money",
+"Pink Floyd - Comfortably Numb",
+"Pink Floyd - One of My Turns",
+"Charlie Puth - Attention",
+"Childish Gambino - This is America",
+"Childish Gambino - Summertime Magic",
+"Childish Gambino - 3005",
+"Childish Gambino - Feels Like Summer",
+"Dua Lipa - Don't Start Now",
+"T.I. - Live Your Life (feat. Rihanna)",
+"T.I. - Whatever You Like",
+"T.I. - What You Know",
+"T.I. - Dead and Gone, (feat. Justin Timberlake)",
+"Outkast - Hey Ya!",
+"Tina Turner - The Best",
+"Tina Turner - What's Love Got to Do With It",
+"Tina Turner - Proud Mary",
+"Tina Turner - We Don't Need Another Hero (Thunderdome)",
+"Spandau Ballet - True",
+"Spandau Ballet - Gold",
+"Rod Stewart - Maggie May",
+"Rod Stewart - Do Ya Think I'm Sexy?",
+"Rod Stewart - First Cut is the Deepest",
+"Curtis Mayfield - Move on Up",
+"Curtis Mayfield - Superfly",
+"Curtis Mayfield - Pusherman",
+"Bad Day - Daniel Powter",
+"Simply Red - Stars",
+"Simply Red - If You Don't Know Me By Now",
+"Simply Red - Fairground",
+"Simply Red - Holding Back the Years",
+"Kylie Minogue - Can't Get You Out of My Head",
+"Kylie Minogue - The Loco-motion",
+"Kylie Minogue - Spinning Around",
+"Kylie Minogue - I Should Be So Lucky",
+"Eric Clapton - Tears In Heaven",
+"Eric Clapton - Wonderful Tonight",
+"Eric Clapton - Cocaine",
+"Eric Clapton - Change The World",
+"Foreigner - I Want to Know What Love Is",
+"Mark Cohn - Walking in Memphis",
+"A-ha - Take on Me",
+"Tom Petty - Wildflowers",
+"Christina Perri - A Thousand Years",
+"Roxette - It Must Have Been Love",
+"Whitney Houston - How Will I Know?",
+"Whitney Houston - I'm Every Woman",
+"Whitney Houston - I Will Always Love You",
+"Whitney Houston - I Have Nothing",
+"Lizzo - Rumors (feat. Cardi B)",
+"Lizzo - Good As Hell",
+"Lizzo - Juice",
+"Blur - Coffee and TV",
+"Blur - Beetlebum",
+"Blur - Parklife",
+"Outkast - Elevators (Me & You)",
+"Outkast - The Whole World (feat. Killer Mike)",
+"Outkast - Roses",
+"Outkast - The Way You Move (feat. Sleepy Brown)",
+"Gorillaz - Clint Eastwood",
+"Gorillaz - Dirty Harry",
+"Gorillaz - Dare",
+"Gorillaz - El Mañana",
+"Blink 182 - All The Small Things",
+"The Killers - Somebody Told Me",
+"Avril Lavigne - Sk8ter Boi",
+"Franz Ferdinand - Take Me Out",
+"The Fratellis - Chelsea Dagger",
+"Green Day - American Idiot",
+"DJ Jazzy Jeff & The Fresh Prince - The Fresh Prince of Bel-Air",
+"DJ Jazzy Jeff & The Fresh Prince -  Boom! Shake the Room",
+"DJ Jazzy Jeff & The Fresh Prince -  Parents Just Don't Understand",
+"Destiny's Child - Say My Name",
+"Destiny's Child - Bills, Bills, Bills",
+"Destiny's Child - Bootylicious",
+"Destiny's Child - Survivor",
+"Wizkid - Mood (feat. Buju)",
+"Wizkid - Ginger (feat. Burna Boy)",
+"Wizkid - No Stress",
+"Dolly Parton - 9 to 5",
+"Dolly Parton - Islands In the Stream",
+"The Zutons - Valerie",
+"Silk Sonic - Smokin Out The Window",
+"Silk Sonic - Love's Train",
+"Silk Sonic - Skate",
+"Spice Girls - Spice up your life",
+"Spice Girls - Say You'll Be There",
+"Spice Girls - 2 Become 1",
+"Spice Girls - Stop",
+"Led Zeppelin - Stairway To Heaven",
+"Led Zeppelin - Whole Lotta Love",
+"Led Zeppelin - Black Dog",
+"Led Zeppelin - Kashmir",
+"Enya - Boadicea",
+"Enya - Only Time",
+"Enya - Orinoco Flow",
+"Enya - Caribbean Blue",
+"Enya - May It Be",
+"Fugees - Fugee-La",
+"Fugees - The Score",
+"Fugees - Zealots",
+"Abba - Waterloo",
+"Abba - Super Trouper",
+"Abba - Take A Chance On Me",
+"Abba - Mamma Mia",
+"Luther Vandross - Give Me The Reason",
+"Luther Vandross - So Amazing",
+"Luther Vandross - A House Is Not A Home",
+"John Legend - Used To Love U",
+"John Legend - All of Me",
+"John Legend - Green Light (feat. André 3000)",
+"John Legend - So High",
+"Koffee - W (feat. Gunna)",
+"Koffee - Lockdown",
+"Koffee - Rapture",
+"Pink - Raise Your Glass",
+"Pink - What About Us",
+"Pink - So What",
+"Fatboy Slim - Right Here, Right Now",
+"Fatboy Slim - Weapon Of Choice (feat. Bootsy Collins)",
+"Fatboy Slim - Rockafeller Skank",
+"Erik - Got To Be Real",
+"Cheryl Lynn - Encore",
+"Cheryl Lynn - Shake it Up Tonight",
+"Camila Cabello - Havana (feat. Young Thug)",
+"Camila Cabello - Bam Bam (feat. Ed Sheeran)",
+"Camila Cabello - Don't Go Yet",
+"Harry Styles - Watermelon Sugar",
+"Harry Styles - As It Was",
+"Harry Styles - Sign of the Times",
+"Shakira - She Wolf",
+"Shakira - Hips Don't Lie (ft. Wyclef Jean)",
+"Shakira - Waka Waka (This Time For Africa)",
+"Lauryn Hill - Everything Is Everything",
+"Lauryn Hill - Doo Wop (That Thing)",
+"Lauryn Hill - To Zion (ft. Carlos Santana)",
+"Rolling Stones - Paint It, Black",
+"Rolling Stones - Start Me Up",
+"Rolling Stones - Gimme Shelter",
+"Rolling Stones - Sympathy For The Devil",
+"Amerie - Why Don't We Fall In Love",
+"Amerie - Talkin' To Me",
+"Joan Jett & The Blackhearts - I Hate Myself For Loving You",
+"Joan Jett & The Blackhearts - Bad Reputation",
+"Britney Spears - I Love Rock 'n' Roll",
+"Britney Spears - ...Baby One More Time",
+"Britney Spears - Oops!...I Did It Again",
+"Britney Spears - Toxic",]
+
+[
+    {
+    "answer": "Miguel Bosé - Morenamía ", 
+    "url": "https://soundcloud.com/bosemiguel/morenamia-dueto-2007"
+    },
+    {
+    "answer": "Miguel Bosé - Amante bandido",
+    "url": "https://soundcloud.com/bosemiguel/amante-bandido-dueto-2007"
+    },
+    {
+    "answer": "Mecano - Maquillaje",
+    "url": "https://soundcloud.com/mecano-official/maquillaje-1"
+    },
+    {
+    "answer": "Alex Ubago - Aunque no te pueda ver",
+    "url": "https://soundcloud.com/alexubago/aunque-no-te-pueda-ver"
+    },
+    {
+    "answer": "Radio Futura - Escuela de Calor",
+    "url": "https://soundcloud.com/radiofuturaofficial/escuela-de-calor-3"
+    },
+    {
+    "answer": "Amaia Montero - Por Toda Una Vida",
+    "url": "https://soundcloud.com/amaia-montero/por-toda-una-vida"
+    },
+    {
+    "answer": "El Arrebato - Dime Tu Nombre",
+    "url": "https://soundcloud.com/el-arrebato/dime-tu-nombre"
+    },
+    {
+    "answer": "Melendi - Tu jardín con enanitos",
+    "url": "https://soundcloud.com/melendi-official/tu-jard-n-con-enanitos"
+    },
+    {
+    "answer": "Pereza - Estrella Polar",
+    "url": "https://soundcloud.com/perezaofficial/estrella-polar"
+    },
+    {
+    "answer": "Celtas Cortos - Cuéntame un cuento",
+    "url": "https://soundcloud.com/celtas-cortos-official/cuentame-un-cuento"
+    },
+    {
+    "answer": "La Cabra Mecanica - La lista de la compra",
+    "url": "https://soundcloud.com/la-cabra-mecanica/la-lista-de-la-compra-version"
+    },
+    {
+    "answer": "Mecano - Me Colé en una Fiesta",
+    "url": "https://soundcloud.com/mecano-official/me-col-en-una-fiesta-1"
+    },
+    {
+    "answer": "El sueño de Morfeo - Para toda la vida",
+    "url": "https://soundcloud.com/el-sueno-de-morfeo/para-toda-la-vida"
+    },
+    {
+    "answer": "David Civera - Que La Detengan",
+    "url": "https://soundcloud.com/danielvela-music/que-la-detengan-2"
+    },
+    {
+    "answer": "Melendi - Un violinista en tu tejado",
+    "url": "https://soundcloud.com/melendi-official/un-violinista-en-tu-tejado"
+    },
+    {
+    "answer": "Nek - Laura no està",
+    "url": "https://soundcloud.com/nek-official/laura-no-est"
+    },
+
+    {
+    "answer": "Nacha Pop - Chica de ayer",
+    "url": "https://soundcloud.com/nacha-pop/chica-de-ayer"
+    },
+    {
+    "answer": "La Guardia - Cuando Brille el Sol",
+    "url": "https://soundcloud.com/la-guardia-official/cuando-brille-el-sol"
+    },
+    {
+    "answer": "Mecano - Hijo de la luna",
+    "url": "https://soundcloud.com/mecano-official/hijo-de-la-luna"
+    },
+    {
+    "answer": "Pignoise - Estoy enfermo",
+    "url": "https://soundcloud.com/pignoise/estoy-enfermo-con-melendi"
+    },
+
+    {
+    "answer": "Melendi - Piratas del bar Caribe",
+    "url": "https://soundcloud.com/melendi-official/piratas-del-bar-caribe"
+    },
+    {
+    "answer": "Mónica Naranjo - Sobreviviré",
+    "url": "https://soundcloud.com/monica-naranjo-official/sobrevivir"
+    },
+    {
+    "answer": "Efecto Mariposa - Diez minutos", //18-Abril-2022
+    "url": "https://soundcloud.com/efecto-mariposa/diez-minutos"
+    },
+    {
+    "answer": "Maldita Nerea - El Secreto de las Tortugas",
+    "url": "https://soundcloud.com/maldita-nerea/el-secreto-de-las-tortugas"
+    },
+    {
+    "answer": "Celtas Cortos - 20 de Abril", //probablemente el peak de la comedia
+    "url": "https://soundcloud.com/celtas-cortos-official/20-de-abril-1#t=00:03"
+    },
+    {
+    "answer":
+        "Manolo García - A San Fernando un Ratito a Pie y Otro Caminando",
+    "url": "https://soundcloud.com/manolo-garcia-official/a-san-fernando-un-ratito-a-pie"
+    timeout: 3000,
+    },
+    {
+    "url": "https://soundcloud.com/selena-gomez-official/baila-conmigo"
+    "answer": "Selena Gomez - Baila Conmigo (with Rauw Alejandro)",
+    },
+    {
+    "url": "https://soundcloud.com/nino-bravo-official/libre"
+    "answer": "Nino Bravo - Libre",
+    },
+    {
+    "answer": "Mecano - Barco a Venus",
+    "url": "https://soundcloud.com/mecano-official/barco-a-venus-1"
+    },
+    {
+    "answer": "Juanes - La Camisa Negra",
+    "url": "https://soundcloud.com/juanes-unplugged/la-camisa-negra-album-version"
+    },
+    {
+    "url": "https://soundcloud.com/el-sueno-de-morfeo/nunca-volvera"
+    "answer": "El sueño de Morfeo - Nunca volverá",
+    timeout: 2700,
+    },
+    {
+    "answer": "Marc Anthony - Valió la Pena ",
+    "url": "https://soundcloud.com/marcanthonyofficial/valio-la-pena"
+    },
+    {
+    "answer": "Amaral - Toda la noche en la calle",
+    "url": "https://soundcloud.com/amaral-official/toda-la-noche-en-la-calle"
+    },
+    {
+    "answer": "Fangoria - A quién le importa",
+    "url": "https://soundcloud.com/fangoria-official/a-quien-le-importa"
+    },
+    {
+    "answer": "Manolo García - Carbon y Ramas Secas",
+    "url": "https://soundcloud.com/manolo-garcia-official/carbon-y-ramas-secas"
+    },
+    {
+    "url": "https://soundcloud.com/marisolofficial/coraz-n-contento-1", //01-Mayo-202
+    "answer": "Marisol - Corazón Contento",
+    },
+    {
+    "url": "https://soundcloud.com/albertogambinoofficial/purpurina"
+    "answer": "Alberto Gambino - Purpurina",
+    timeout: 1000,
+    },
+    {
+    "answer": "Estopa - Por la Raja de Tu Falda",
+    "url": "https://soundcloud.com/estopa-official/por-la-raja-de-tu-falda"
+    },
+    {
+    "url": "https://soundcloud.com/sebastianyatra/sebastian-yatra-tacones-rojos"
+    "answer": "Sebastián Yatra - Tacones Rojos",
+    },
+    {
+    "url": "https://soundcloud.com/malu-official/blanco-y-negro"
+    "answer": "Malu - Blanco y Negro",
+    timeout: 1000,
+    },
+    {
+    "url": "https://soundcloud.com/cnco/reggaeton-lento-bailemos"
+    "answer": "CNCO - Reggaetón Lento (Bailemos)",
+    },
+    {
+    "url": "https://soundcloud.com/antonio-flores-official/no-dudaria"
+    "answer": "Antonio Flores - No Dudaria",
+    },
+    {
+    "answer": "Mecano - Cruz de navajas",
+    "url": "https://soundcloud.com/mecano-official/cruz-de-navajas"
+    },
+    {
+    "answer": "Alejandro Sanz - Te lo agradezco, pero no",
+    "url": "https://soundcloud.com/warnermusicspain/alejandro-sanz-te-lo-agradezco"
+    timeout: 2000,
+    },
+    {
+    "answer": "Efecto Mariposa - Por quererte",
+    "url": "https://soundcloud.com/efecto-mariposa/por-quererte"
+    },
+    {
+    "answer": "Pereza - Princesas",
+    "url": "https://soundcloud.com/perezaofficial/princesas"
+    },
+    {
+    "url": "https://soundcloud.com/luisfonsiofficial/despacito"
+    "answer": "Luis Fonsi - Despacito",
+    },
+    {
+    "answer": "Amaral - Te necesito",
+    "url": "https://soundcloud.com/amaral-official/te-necesito"
+    },
+    {
+    "answer": "El Canto Del Loco - Peter Pan",
+    "url": "https://soundcloud.com/el-canto-del-loco/peter-pan-2"
+    },
+    {
+    "url": "https://soundcloud.com/bustamante-official/no-soy-un-superman-album"
+    "answer": "Bustamante - No Soy Un Superman",
+    },
+    {
+    "answer": "Antonio Flores - No Dudaria",
+    "url": "https://soundcloud.com/antonio-flores-official/no-dudaria"
+    },
+    {
+    "answer": "Marta Sánchez - Soy Yo",
+    "url": "https://soundcloud.com/marta-sanchez-official/soy-yo-album-version"
+    },
+    {
+    "answer": "Amaia Montero - Quiero Ser",
+    "url": "https://soundcloud.com/amaia-montero/quiero-ser"
+    },
+    {
+    "answer": "Amaral - Sin ti no soy nada",
+    "url": "https://soundcloud.com/amaral-official/sin-ti-no-soy-nada"
+    timeout: 1200,
+    },
+    {
+    "url": "https://soundcloud.com/melody89613/el-baile-del-gorila"
+    "answer": "Melody - El Baile del Gorila",
+    },
+    {
+    "url": "https://soundcloud.com/morat-official/cuando-nadie-ve"
+    "answer": "Morat - Cuando Nadie Ve",
+    },
+    {
+    "answer": "Mecano - Un Año Mas",
+    "url": "https://soundcloud.com/mecano-official/un-a-o-mas"
+    },
+    {
+    "url": "https://soundcloud.com/marcsegui/360a1"
+    "answer": "Marc Seguí - 360",
+    },
+    {
+    "answer": "Amaral - El universo sobre mí",
+    "url": "https://soundcloud.com/amaral-official/el-universo-sobre-mi-2012"
+    },
+    {
+    "url": "https://soundcloud.com/nickyjamcol/el-perdon"
+    "answer": "Nicky Jam Music - El Perdón (with Enrique Iglesias)",
+    },
+    {
+    "url": "https://soundcloud.com/tequilaofficial/salta"
+    "answer": "Tequila - Salta!!!",
+    },
+    {
+    "url": "https://soundcloud.com/djsnake/taki-taki-feat-selena-gomez"
+    "answer":
+        "Bill Duran - DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B",
+    },
+    {
+    "url": "https://soundcloud.com/el-canto-del-loco/la-madre-de-jose"
+    "answer": "El Canto Del Loco - La Madre de Jose",
+    },
+    {
+    "answer": "Melendi - Caminando por la vida",
+    "url": "https://soundcloud.com/melendi-official/caminando-por-la-vida"
+    timeout: 3750,
+    },
+    {
+    "answer": "Shakira - Lo Hecho Está Hecho",
+    "url": "https://soundcloud.com/shakira/lo-hecho-est-hecho"
+    },
+    {
+    "url": "https://soundcloud.com/lacasaazul-music/la-revolucion-sexual", //01-Junio-202
+    "answer": "La Casa Azul - La Revolución Sexual",
+    },
+    {
+    "url": "https://soundcloud.com/raffaella-carra-official/hay-quel-venir-al-sur"
+    "answer": "Raffaella Carra - Hay Quel Venir al Sur",
+    },
+    {
+    "answer": "Juanes - Para Tu Amor",
+    "url": "https://soundcloud.com/juanes-unplugged/para-tu-amor-album-version"
+    },
+    {
+    "answer": "La Musicalité - Soledad en mí",
+    "url": "https://soundcloud.com/la-musicalite/soledad-en-mi"
+    },
+    {
+    "url": "https://soundcloud.com/troupbandofficial/la-cancion-del-velero"
+    "answer": "Troup Band - La Canción del Velero",
+    },
+    {
+    "url": "https://soundcloud.com/warnermusicspain/alejandro-sanz-corazon-partio"
+    "answer": "Warner Music Spain - Alejandro Sanz - Corazon partio",
+    },
+    {
+    "answer": "Alex Ubago - Sin miedo a nada",
+    "url": "https://soundcloud.com/alexubago/alex-ubago-sin-miedo-a-nada"
+    },
+    {
+    "answer": "Juanes - A Dios Le Pido",
+    "url": "https://soundcloud.com/juanes-unplugged/a-dios-le-pido"
+    },
+    {
+    "answer": "Fangoria - Retorciendo palabras",
+    "url": "https://soundcloud.com/fangoria-official/retorciendo-palabras"
+    },
+    {
+    "answer": "Mecano - Hawaii-Bombay",
+    "url": "https://soundcloud.com/mecano-official/hawaii-bombay-1"
+    },
+    {
+    "answer": "Georgina - Supermujer",
+    "url": "https://soundcloud.com/georgina-official/supermujer"
+    },
+    {
+    "url": "https://soundcloud.com/lassupremasdemostoles/eres-un-enfermo"
+    "answer": "Las Supremas De Mostoles - Eres un enfermo",
+    },
+    {
+    "url": "https://soundcloud.com/gipsy-kings-official/volare-nel-blu-di-pinto-di-blu"
+    "answer": "Gipsy Kings - Volare (Nel Blu di Pinto di Blu)",
+    },
+    {
+    "answer": "La Oreja De Van Gogh - Rosas",
+    "url": "https://soundcloud.com/la-oreja-de-van-gogh/rosas-3"
+    },
+    {
+    "answer": "Shakira - Ciega, Sordomuda",
+    "url": "https://soundcloud.com/shakira/ciega-sordomuda"
+    },
+    {
+    "answer": "Mónica Naranjo - Desátame",
+    "url": "https://soundcloud.com/monica-naranjo-official/des-tame-1"
+    },
+    {
+    "url": "https://soundcloud.com/calle13music/atr-vete-te-te-album-version"
+    "answer": "Calle 13 - Atrévete-Te-Te",
+    },
+    {
+    "answer": "La Oreja De Van Gogh - Jueves",
+    "url": "https://soundcloud.com/la-oreja-de-van-gogh/jueves"
+    },
+    {
+    "answer": "El Barrio - Pa Madrid",
+    "url": "https://soundcloud.com/bailongos-va/el-barrio-pa-madrid"
+    },
+    {
+    "url": "https://soundcloud.com/tino-casal-official/eloise"
+    "answer": "Tino Casal - Eloise",
+    },
+    {
+    "answer": "Chambao - Pokito a Poko",
+    "url": "https://soundcloud.com/chambao/pokito-a-poko"
+    },
+    {
+    "url": "https://soundcloud.com/david-bisbal-official/buleria-album-version"
+    "answer": "David Bisbal - Buleria",
+    },
+    {
+    "answer": "El sueño de Morfeo - Nunca volverá",
+    "url": "https://soundcloud.com/el-sueno-de-morfeo/nunca-volvera"
+    },
+    {
+    "answer": "La Guardia - El Mundo Tras el Cristal",
+    "url": "https://soundcloud.com/la-guardia-official/el-mundo-tras-el-cristal"
+    },
+    {
+    "answer": "Amaral - Días de verano",
+    "url": "https://soundcloud.com/amaral-official/dias-de-verano"
+    },
+    {
+    "answer": "Estopa - Pastillas para Dormir",
+    "url": "https://soundcloud.com/estopa-official/pastillas-para-dormir"
+    },
+    {
+    "answer": "Rosario - No Dudaría",
+    "url": "https://soundcloud.com/rosario-official/no-dudar-a-album-version"
+    },
+    {
+    "answer": "La Oreja De Van Gogh - El Primer Día del Resto de Mi Vida",
+    "url": "https://soundcloud.com/la-oreja-de-van-gogh/el-primer-d-a-del-resto-de"
+    },
+    {
+    "url": "https://soundcloud.com/rosario-official/c-mo-quieres-que-te-quiera-1"
+    "answer": "Rosario - Cómo Quieres Que Te Quiera",
+    },
+    {
+    "answer": "Mecano - Hoy no me puedo levantar",
+    "url": "https://soundcloud.com/mecano-official/hoy-no-me-puedo-levantar-1"
+    },
+    {
+    "answer": "Aleks Syntek - Duele El Amor", //01-Julio-2022
+    "url": "https://soundcloud.com/aleks-syntek/duele-el-amor-album-version"
+    },
+    {
+    "url": "https://soundcloud.com/azucar-moreno-official/bandido"
+    "answer": "Azucar Moreno - Bandido",
+    },
+    {
+    "url": "https://soundcloud.com/carlossadness/amor-papaya"
+    "answer": "Carlos Sadness - Amor Papaya",
+    },
+    {
+    "answer": "Amaral - Cómo hablar",
+    "url": "https://soundcloud.com/amaral-official/como-hablar-1"
+    },
+    {
+    "url": "https://soundcloud.com/david-bisbal-official/ave-mar-a-album-version"
+    "answer": "David Bisbal - Ave María",
+    },
+    {
+    "answer": "Fito & Fitipaldis - Entre la espada y la pared",
+    "url": "https://soundcloud.com/fitoyfitipaldis/entre-la-espada-y-la-pared"
+    },
+    {
+    "answer": "Juanes - Fotografía",
+    "url": "https://soundcloud.com/juanes-unplugged/fotografia"
+    },
+    {
+    "answer": "Chambao - Ahí Estás Tú", //08-Julio-2022
+    "url": "https://soundcloud.com/chambao/ah-est-s-t"
+    },
+    {
+    "answer": "Paulina Rubio - Ni Rosas Ni Juguetes",
+    "url": "https://soundcloud.com/paulina-rubio-official/ni-rosas-ni-juguetes-album"
+    },
+    {
+    "answer": "M-Clan - Llamando a la tierra (Serenade From the Stars)",
+    "url": "https://soundcloud.com/m-clan-official/llamando-a-la-tierra-serenade"
+    },
+    {
+    "answer": "Juanes - Volverte A Ver",
+    "url": "https://soundcloud.com/juanes-unplugged/volverte-a-ver-album-version"
+    },
+    {
+    "url": "https://soundcloud.com/camaron-de-la-isla/soy-gitano-1"
+    "answer": "Camaron De La Isla - Soy Gitano",
+    },
+    {
+    "url": "https://soundcloud.com/duncan-dhu/cien-gaviotas"
+    "answer": "Duncan Dhu - Cien gaviotas",
+    },
+    {
+    "answer": "Amaral - Marta, Sebas, Guille y los demás",
+    "url": "https://soundcloud.com/amaral-official/marta-sebas-guille-y-los-dem"
+    },
+    {
+    "url": "https://soundcloud.com/rocio-durcal-official/me-gustas-mucho-1"
+    "answer": "Rocio Durcal - Me Gustas Mucho",
+    },
+    {
+    "answer": "Joaquin Sabina - Y Nos Dieron las Diez",
+    "url": "https://soundcloud.com/joaquin-sabina-official/y-nos-dieron-las-diez"
+    },
+    {
+    "url": "https://soundcloud.com/rosaliaofficial/yo-x-ti-tu-x-mi"
+    "answer": "Rosalia - Yo x Ti, Tu x Mi",
+    },
+    {
+    "answer": "Juanes - Me Enamora",
+    "url": "https://soundcloud.com/juanes-unplugged/me-enamora-album-version"
+    },
+    {
+    "answer": "Carlos Baute - Colgando en tus manos (con Marta Sánchez)",
+    "url": "https://soundcloud.com/carlosbaute/colgando-en-tus-manos-con"
+    },
+    {
+    "url": "https://soundcloud.com/carlossadness/te-quiero-un-poco"
+    "answer": "Carlos Sadness - Te Quiero un Poco",
+    },
+    {
+    "answer": "Mecano - Mujer contra mujer",
+    "url": "https://soundcloud.com/mecano-official/mujer-contra-mujer"
+    },
+    {
+    "answer": "Radio Futura - Veneno en la Piel",
+    "url": "https://soundcloud.com/radiofuturaofficial/veneno-en-la-piel"
+    },
+    {
+    "answer": "Miguel Bosé - Sevilla",
+    "url": "https://soundcloud.com/bosemiguel/sevilla-dueto-2007"
+    },
+    {
+    "answer": "Las Niñas - Oju",
+    "url": "https://soundcloud.com/lasninasofficial/oju"
+    },
+    {
+    "answer": "Mecano - Ay, qué pesado",
+    "url": "https://soundcloud.com/mecano-official/ay-que-pesado"
+    },
+    {
+    "answer": "Raphael - Mi gran noche",
+    "url": "https://soundcloud.com/raphael-official/mi-gran-noche"
+    },
+    {
+    "url": "https://soundcloud.com/lolita-official/sarandonga"
+    "answer": "Lolita - Sarandonga",
+    },
+    {
+    "answer": "Fito & Fitipaldis - Por la boca vive el pez",
+    "url": "https://soundcloud.com/fitoyfitipaldis/por-la-boca-vive-el-pez-1"
+    },
+    {
+    "answer": "Pereza - Todo",
+    "url": "https://soundcloud.com/perezaofficial/todo"
+    },
+    {
+    "url": "https://soundcloud.com/ctangana/mala-mujer"
+    "answer": "C. Tangana - Mala Mujer",
+    },
+    {
+    "url": "https://soundcloud.com/pimpinela-official/olv-dame-y-pega-la-vuelta"
+    "answer": "Pimpinela - Olvídame y Pega la Vuelta",
+    },
+    {
+    "answer": "Amaral - Kamikaze", //01-Agosto-2022
+    "url": "https://soundcloud.com/amaral-official/kamikaze"
+    },
+    {
+    "answer": "La Quinta Estación - Que Te Quería",
+    "url": "https://soundcloud.com/laquintaestacion/que-te-queria"
+    },
+    {
+    "answer": "El Arrebato - Buscate Un Hombre Que Te Quiera",
+    "url": "https://soundcloud.com/el-arrebato/buscate-un-hombre-que-te"
+    },
+    {
+    "answer": "Alejandro Sanz - No es lo mismo",
+    "url": "https://soundcloud.com/warnermusicspain/no-es-lo-mismo"
+    },
+    {
+    "url": "https://soundcloud.com/enriqueiglesias/subeme-la-radio"
+    "answer":
+        "Enrique Iglesias - SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
+    },
+    {
+    "answer": "Melendi - Lágrimas desordenadas",
+    "url": "https://soundcloud.com/melendi-official/lagrimas-desordenadas"
+    },
+    {
+    "url": "https://soundcloud.com/morat-official/c-mo-te-atreves"
+    "answer": "Morat - Cómo Te Atreves",
+    },
+    {
+    "url": "https://soundcloud.com/paulina-rubio-official/y-yo-sigo-aqui"
+    "answer": "Paulina Rubio - Y Yo Sigo Aqui",
+    },
+    {
+    "answer": "Jarabe de Palo - La flaca",
+    "url": "https://soundcloud.com/jarabedepalo/la-flaca-2"
+    },
+    {
+    "answer": "Melendi - Barbie de extrarradio",
+    "url": "https://soundcloud.com/melendi-official/barbie-de-extrarradio"
+    },
+    {
+    "answer": "Shakira - La Tortura", //11-Agosto-2022
+    "url": "https://soundcloud.com/shakira/la-tortura"
+    },
+    {
+    "answer": "Julieta Venegas - Me Voy",
+    "url": "https://soundcloud.com/Julieta Venegas/me-voy"
+    },
+    {
+    "answer": "El Arrebato - Poquito A Poco",
+    "url": "https://soundcloud.com/el-arrebato/poquito-a-poco"
+    },
+    {
+    "answer": "Chayanne - Torero",
+    "url": "https://soundcloud.com/chayanne-official/torero"
+    },
+    {
+    "url": "https://soundcloud.com/aitana-music/formentera"
+    "answer": "Aitana - Formentera",
+    },
+    {
+    "answer": "Nena Daconte - En Que Estrella Estara",
+    "url": "https://soundcloud.com/nena-daconte-official/en-que-estrella-estara-album"
+    },
+    {
+    "answer": "El sueño de Morfeo - Si no estas",
+    "url": "https://soundcloud.com/el-sueno-de-morfeo/si-no-estas"
+    },
+    {
+    "answer": "Coti - Nada Fue Un Error",
+    "url": "https://soundcloud.com/coti-official/nada-fue-un-error-album"
+    },
+    {
+    "answer": "Andy & Lucas - Son de Amores",
+    "url": "https://soundcloud.com/andy-lucas-official/son-de-amores-1"
+    },
+    {
+    "answer": "Jarabe de Palo - Depende",
+    "url": "https://soundcloud.com/jarabedepalo/depende-1"
+    },
+    {
+    "url": "https://soundcloud.com/sjkofficial/a-toda-mecha"
+    "answer": "S.J.K. - A toda mecha",
+    },
+    {
+    "answer": "El Arrebato - Dame cariño",
+    "url": "https://soundcloud.com/el-arrebato/dame-carino"
+    },
+    {
+    "answer": "El sueño de Morfeo - Ojos de cielo",
+    "url": "https://soundcloud.com/el-sueno-de-morfeo/ojos-de-cielo"
+    },
+    {
+    "url": "https://soundcloud.com/mana-oficial/clavado-en-un-bar"
+    "answer": "Maná Oficial - Clavado En Un Bar",
+    },
+    {
+    "answer": "Miguel Bosé - Como un lobo ",
+    "url": "https://soundcloud.com/bosemiguel/como-un-lobo-dueto-2007"
+    },
+    {
+    "url": "https://soundcloud.com/thalia-54826/no-me-acuerdo"
+    "answer": "Thalia - No Me Acuerdo",
+    },
+    {
+    "answer": "Macaco - Con La Mano Levantá",
+    "url": "https://soundcloud.com/macaco-official/con-la-mano-levanta-feat"
+    },
+    {
+    "answer": "Ricky Martin - Livin' la Vida Loca",
+    "url": "https://soundcloud.com/ricky-martin-official/livin-la-vida-loca-spanish"
+    },
+    {
+    "answer": "Duncan Dhu - Cien gaviotas",
+    "url": "https://soundcloud.com/duncan-dhu/cien-gaviotas"
+    },
+    {
+    "url": "https://soundcloud.com/sexbomb-music/ven-ven-ven"
+    "answer": "Sex Bomb - Ven, Ven, Ven",
+    },
+    {
+    "answer": "Manolo García - Nunca el Tiempo Es Perdido",
+    "url": "https://soundcloud.com/manolo-garcia-official/nunca-el-tiempo-es-perdido"
+    },
+    {
+    "answer": "Maná Oficial - Labios Compartidos", //01-Septiembre-2022
+    "url": "https://soundcloud.com/mana-oficial/labios-compartidos"
+    },
+    {
+    "url": "https://soundcloud.com/malumaofficial/felices-los-4"
+    "answer": "Maluma - Felices los 4",
+    },
+    {
+    "answer": "María Peláe- La Niña",
+    "url": "https://soundcloud.com/mariapelae-music/la-nina"
+    },
+    {
+    "url": "https://soundcloud.com/antonio-orozco-official/estoy-hecho-de-pedacitos-de"
+    "answer": "Antonio Orozco - Estoy Hecho De Pedacitos De Ti",
+    },
+    {
+    "answer": "Manolo García - Pajaros de Barro",
+    "url": "https://soundcloud.com/manolo-garcia-official/pajaros-de-barro"
+    },
+    {
+    "answer": "Amaia Montero - Mirando Al Mar",
+    "url": "https://soundcloud.com/amaia-montero/mirando-al-mar"
+    },
+    {
+    "answer": "Mecano - El 7 de Septiembre", //07-Septiembre-2022
+    "url": "https://soundcloud.com/mecano-official/el-7-de-septiembre"
+    },
+    {
+    "url": "https://soundcloud.com/maria-isabel-official/no-me-toques-las-palmas-que-me"
+    "answer": "Maria Isabel - ¡No Me Toques Las Palmas Que Me Conozco!",
+    },
+    {
+    "answer": "Shakira - Suerte (Whenever, Wherever)",
+    "url": "https://soundcloud.com/shakira/suerte-whenever-wherever"
+    },
+    {
+    "answer": "Alejandro Sanz - Corazon partio",
+    "url": "https://soundcloud.com/warnermusicspain/alejandro-sanz-corazon-partio"
+    },
+    {
+    "answer": "Melendi - Con la luna llena",
+    "url": "https://soundcloud.com/melendi-official/con-la-luna-llena"
+    },
+    {
+    "url": "https://soundcloud.com/ladillarusa/kitt-y-los-coches-del-pasado"
+    "answer":
+        "Ladilla Rusa - KITT y los coches del pasado (feat. Joan Colomo, Los Ganglios, Laura Santos & Lady Gipsy)",
+    },
+    {
+    "url": "https://soundcloud.com/monica-naranjo-official/des-tame-1"
+    "answer": "Mónica Naranjo - Desátame",
+    },
+    {
+    "answer": "Macaco - Tengo",
+    "url": "https://soundcloud.com/macaco-official/tengo"
+    },
+    {
+    "url": "https://soundcloud.com/camela-official/cuando-zarpa-el-amor"
+    "answer": "Camela - Cuando zarpa el amor",
+    },
+    {
+    "answer": "El Canto Del Loco - Eres Tonto",
+    "url": "https://soundcloud.com/el-canto-del-loco/eres-tonto-1"
+    },
+    {
+    "url": "https://soundcloud.com/anacano-2/salom-vivo-cantando-eurovisi-n"
+    "answer": "Anacano - Salomé Vivo Cantando Eurovisión 1969",
+    },
+    {
+    "answer": "Bebe - Malo",
+    "url": "https://soundcloud.com/bebe-official/malo-explicit"
+    },
+    {
+    "answer": "Diego Torres - Color Esperanza",
+    "url": "https://soundcloud.com/diego-torres-official/color-esperanza"
+    },
+    {
+    "answer": "Pereza - Lady Madrid", //20-Septiembre-2022
+    "url": "https://soundcloud.com/perezaofficial/lady-madrid"
+    },
+    {
+    "answer": "Fito & Fitipaldis - Antes de que cuente diez",
+    "url": "https://soundcloud.com/fitoyfitipaldis/antes-de-que-cuente-diez"
+    },
+    {
+    "url": "https://soundcloud.com/rosaliaofficial/malamente"
+    "answer": "Rosalia - MALAMENTE (Cap.1: Augurio)",
+    },
+    {
+    "answer": "Chambao - Papeles Mojados",
+    "url": "https://soundcloud.com/chambao/papeles-mojados"
+    },
+    {
+    "answer": "Nena Daconte - Tenia Tanto Que Darte",
+    "url": "https://soundcloud.com/nena-daconte-official/tenia-tanto-que-darte-album"
+    },
+    {
+    "answer": "La Quinta Estación - Me Muero",
+    "url": "https://soundcloud.com/laquintaestacion/me-muero"
+    },
+    {
+    "url": "https://soundcloud.com/ms-niiina/tu-sicaria-feat-beauty-brain"
+    "answer": "MS NINA - Tu Sicaria",
+    },
+    {
+    "answer": "Jarabe de Palo - Bonito",
+    "url": "https://soundcloud.com/jarabedepalo/bonito-1"
+    },
+    {
+    "answer": "Estopa - Como Camarón",
+    "url": "https://soundcloud.com/estopa-official/como-camar-n"
+    },
+    {
+    "answer": "Ella baila sola - Amores de barra",
+    "url": "https://soundcloud.com/ella-baila-sola-official/amores-de-barra"
+    },
+    {
+    "answer": "La Quinta Estación - El Sol No Regresa",
+    "url": "https://soundcloud.com/laquintaestacion/el-sol-no-regresa"
+    },
+    {
+    "url": "https://soundcloud.com/chenoa-official/cuando-t-vas-album-version", //01-Octubre-202
+    "answer": "Chenoa - Cuando Tú Vas",
+    },
+    {
+    "answer":
+        "Despistaos - Cada dos minutos (con Rulo y la Contrabanda y Kutxi Romero)",
+    "url": "https://soundcloud.com/despistaos-official/cada-dos-minutos-con-rulo-de"
+    },
+    {
+    "answer": "Fito & Fitipaldis - Soldadito marinero",
+    "url": "https://soundcloud.com/fitoyfitipaldis/soldadito-marinero"
+    },
+    {
+    "url": "https://soundcloud.com/tino-casal-official/embrujada"
+    "answer": "Tino Casal - Embrujada",
+    },
+    {
+    "url": "https://soundcloud.com/badbunny15/bad-bunny-el-alfa-la-romana"
+    "answer": "Bad-Bunny - Bad Bunny, El Alfa - La Romana",
+    },
+    {
+    "answer": "Mecano - Me cuesta tanto olvidarte", //06-Octubre-2022
+    "url": "https://soundcloud.com/mecano-official/me-cuesta-tanto-olvidarte"
+    },
+    {
+    "url": "https://soundcloud.com/patriciamanterola/que-el-ritmo-no-pare"
+    "answer": "Patricia Manterola - Que El Ritmo No Pare",
+    },
+    {
+    "answer": "Julieta Venegas - Limón y Sal",
+    "url": "https://soundcloud.com/Julieta Venegas/lim-n-y-sal"
+    },
+    {
+    "answer": "La Oreja De Van Gogh - Cuentame al Oido",
+    "url": "https://soundcloud.com/la-oreja-de-van-gogh/cuentame-al-oido"
+    },
+    {
+    "answer": 'Amaia Montero - 4 "',
+    "url": "https://soundcloud.com/amaia-montero/4-1"
+    },
+    {
+    "answer": "Coti - Antes Que Ver El Sol",
+    "url": "https://soundcloud.com/coti-official/antes-que-ver-el-sol-bonus"
+    },
+    {
+    "answer": "El Canto Del Loco - Besos",
+    "url": "https://soundcloud.com/el-canto-del-loco/besos"
+    },
+    {
+    "answer": "Chenoa - Cuando Tú Vas",
+    "url": "https://soundcloud.com/chenoa-official/cuando-t-vas-album-version"
+    },
+    {
+    "url": "https://soundcloud.com/badgyalsc/fiebre-prod-king-doudou"
+    "answer": "BADGYAL - Fiebre (Prod. King DouDou)",
+    },
+    {
+    "url": "https://soundcloud.com/ayem101424/te-bote-remix-feat-darell"
+    "answer": "Ay Em - Te Boté (Remix) [feat. Darell, Nicky Jam & Ozuna]",
+    },
+    {
+    "answer": "Fangoria - Dramas y comedias",
+    "url": "https://soundcloud.com/fangoria-official/dramas-y-comedias"
+    },
+    {
+    "answer": "Antonio Flores - Isla de Palma",
+    "url": "https://soundcloud.com/antonio-flores-official/isla-de-palma"
+    },
+    {
+    "answer": "Antonio Flores - Siete Vidas",
+    "url": "https://soundcloud.com/antonio-flores-official/siete-vidas"
+    },
+    {
+    "answer": "El sueño de Morfeo - Esta soy yo",
+    "url": "https://soundcloud.com/el-sueno-de-morfeo/esta-soy-yo"
+    },
+    {
+    "answer": "La Musicalité - Cuatro elementos",
+    "url": "https://soundcloud.com/la-musicalite/cuatro-elementos"
+    },
+    {
+    "url": "https://soundcloud.com/iambeckyg/sin-pijama"
+    "answer": "Becky G - Becky G & Natti Natasha - Sin Pijama",
+    },
+    {
+    "url": "https://soundcloud.com/sonia-y-selena/yo-quiero-bailar-1"
+    "answer": "Sonia Y Selena - Yo Quiero Bailar",
+    },
+    {
+    "url": "https://soundcloud.com/shakira/si-te-vas"
+    "answer": "Shakira - Si Te Vas",
+    },
+    {
+    "answer": "El Barrio - Quiereme",
+    "url": "https://soundcloud.com/el-barrio-official/quiereme"
+    },
+    {
+    "url": "https://soundcloud.com/anamenaofficial/musica-ligera"
+    "answer": "Ana Mena - Música Ligera",
+    },
+    {
+    "answer": "Shakira - Loba",
+    "url": "https://soundcloud.com/shakira/loba"
+    },
+    {
+    "url": "https://soundcloud.com/shakira/chantaje"
+    "answer": "Shakira - Chantaje (feat. Maluma)",
+    },
+    {
+    "url": "https://soundcloud.com/azucar-moreno-official/solo-se-vive-una-vez-1"
+    "answer": "Azucar Moreno - Solo Se Vive una Vez",
+    },
+    {
+    "answer": "Hombres G - Devuelveme A Mi Chica",
+    "url": "https://soundcloud.com/warnermusicspain/devuelveme-a-mi-chica"
+    },
+    {
+    "url": "https://soundcloud.com/david-bisbal-official/oye-el-boom-album-version", //30-Octubre-202
+    "answer": "David Bisbal - Oye El Boom",
+    },
+    {
+    "answer": "Miguel Bosé - Aire soy",
+    "url": "https://soundcloud.com/bosemiguel/aire-soy-feat-ximena-sari-ana"
+    },
+    {
+    "url": "https://soundcloud.com/maria-isabel-official/antes-muerta-que-sencilla", //01-Noviembre-202
+    "answer": "Maria Isabel - Antes Muerta Que Sencilla",
+    }
+]
