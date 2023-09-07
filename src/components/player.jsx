@@ -1,9 +1,8 @@
 import React, { useEffect, useRef, useState } from "react";
 import { fetchSong } from "../services/fetchSong";
-import ProgressBar from "progressbar.js";
-
+import { Line } from "rc-progress";
 const timeStamps = [1, 2, 5, 8, 12, 16];
-
+const MaxDuration = 16;
 const playAudio = (ref, setPlaying) => {
   ref.current.play();
   setPlaying(true);
@@ -19,29 +18,25 @@ const withinRange = (currentTime, expected) => {
   return currentTime >= expected - 0.15 && currentTime <= expected + 0.15;
 };
 
-const handleTimeUpdate = (event, audioRef, progressRef) => {
-  if (withinRange(event.target.currentTime, 1)) {
-    console.log("1 segundo");
-  } else if (withinRange(event.target.currentTime, 5)) {
-    console.log("5 segundos");
-  } else if (withinRange(event.target.currentTime, 10)) {
-    console.log("10 segundos");
-  } else if (withinRange(event.target.currentTime, 15)) {
-    console.log("15 segundos");
-  } else if (withinRange(event.target.currentTime, 30)) {
-    console.log("30 segundos");
+const handleTimeUpdate = (
+  event,
+  audioRef,
+  updateAudio,
+  updateProgress,
+  attemptIndex
+) => {
+  if (withinRange(event.target.currentTime, timeStamps[attemptIndex])) {
+    pauseAudio(audioRef, updateAudio);
+    console.log(event.target.currentTime, " - ", timeStamps[attemptIndex]);
   }
-
-  progressRef.current.value =
-    event.target.currentTime / audioRef.current.duration;
+  updateProgress((event.target.currentTime / MaxDuration) * 100);
 };
 
-const Player = ({ songData }) => {
+const Player = ({ songData, attemptIndex }) => {
   const [song, setSong] = useState({ loaded: false });
   const [playing, setPlaying] = useState(false);
+  const [progress, setProgress] = useState(0);
   const audioRef = useRef();
-  const progressRef = useRef();
-  let progressLine;
   useEffect(() => {
     if (songData.id === undefined) return;
     fetchSong(songData.id, (data) => setSong({ ...data, loaded: true }));
@@ -55,10 +50,18 @@ const Player = ({ songData }) => {
             ref={audioRef}
             src={song.preview}
             className="audio-player"
-            onTimeUpdate={(e) => handleTimeUpdate(e, audioRef, progressRef)}
+            onTimeUpdate={(e) =>
+              handleTimeUpdate(
+                e,
+                audioRef,
+                setPlaying,
+                setProgress,
+                attemptIndex
+              )
+            }
             onEnded={() => pauseAudio(audioRef, setPlaying)}
           />
-          <div id="progress" />
+          <Line percent={progress} strokeWidth={5} />
           {playing ? (
             <div
               className="player-play"

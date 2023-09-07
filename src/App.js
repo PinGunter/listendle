@@ -11,7 +11,7 @@ function App() {
   const attemptsRef = useRef();
   const modalRef = useRef();
   const [selected, setSelected] = useState(-1);
-  const [started, setStarted] = useState(false);
+  const [attemptIndex, setAttemptIndex] = useState(0);
   useEffect(() => {
     setSelected(songs[Math.floor(Math.random() * songs.length)]);
   }, []);
@@ -24,9 +24,14 @@ function App() {
         </a>
       </div>
       <div className="app">
-        <Instructions startGame={() => setStarted(true)} />
-        <AttemptList ref={attemptsRef} endGame={modalRef.current?.open} />
-        <Player songData={selected} />
+        <Instructions />
+        <AttemptList
+          ref={attemptsRef}
+          endGame={modalRef.current?.open}
+          attemptIndex={attemptIndex}
+          setAttemptIndex={setAttemptIndex}
+        />
+        <Player songData={selected} attemptIndex={attemptIndex} />
         <Guesser
           data={songs}
           correct={selected}

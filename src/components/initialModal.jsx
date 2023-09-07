@@ -1,11 +1,10 @@
 import React, { useEffect, useState } from "react";
 
-const Instructions = ({ startGame }) => {
+const Instructions = () => {
   const [open, setOpen] = useState(false);
   useEffect(() => {
     if (localStorage.getItem("visited")) {
       setOpen(false);
-      startGame();
     } else {
       setOpen(true);
     }
@@ -16,7 +15,6 @@ const Instructions = ({ startGame }) => {
       onClick={() => {
         setOpen(false);
         localStorage.setItem("visited", true);
-        startGame();
       }}
       className="dialog-inst"
     >
