@@ -34,7 +34,7 @@ const EndGameModal = forwardRef((props, ref) => {
           <div className="dialog-buttons">
             <button
               className="dialog-button"
-              onClick={() => alert("Not implemented yet")}
+              onClick={() => window.location.reload()}
             >
               <i className="fa-solid fa-arrow-rotate-left"></i>              Play Again
             </button>
